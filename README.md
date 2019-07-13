@@ -1,0 +1,2 @@
+# Your-Retreat
+Many people working in foreign service tend to not be able to bring their family along with them, especially if they are posted in dangerous sites. Your Retreat is an app that registers Foreign Service Officers in the United States Embassy for a paid vacation with their family. Each continent that an officer has the choice to go to has certain factors to make sure the officer has completed all requirements (for instance, checking for Typhoid fever in Africa). The app is very high-level in terms of its ideology.
